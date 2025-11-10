@@ -1,0 +1,103 @@
+.title {
+    background-color: black;
+    color: red;
+    width: 700px;
+}
+
+.menu {
+    background-color: gray;
+    color: blueviolet;
+    width: 700px;
+}
+
+.textbox {
+    background-color: white;
+    color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+}
+
+.textbox2 {
+    background-color: white;
+    color: gray;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+}
+
+.textbox3 {
+    background-color: white;
+    color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+}
+
+.legend {
+    background-color: black;
+    color: gray;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+
+}
+
+.imagecontainer {
+    background-color: white;
+    color: green;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 700px;
+}
+
+.countrycode {
+    background-color: white;
+    color: black;
+    width: 700px;
+
+}
+
+.settings {
+    background-color: black;
+    color: white;
+     border-width: 3px;
+    border-style: solid;
+    border-color: red;
+    width: 700px;
+}
+
+.general {
+    background-color: white;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20;
+    padding-bottom: 20;
+    width: 700px;
+}
+
+.transparent-background {
+  background-image: url('/images/images7.jfif');
+  background-size: cover;
+  opacity: 0.9; /* 50% 투명도 */
+}
+
+.transparent-backgroundmenu {
+    opacity: 0.65
+    
+    
+    
+}
+
+
+.centered-div {
+  width: 50%; /* Or any specific width */
+  margin-left: auto;
+  margin-right: auto;
+}

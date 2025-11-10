@@ -1,0 +1,27 @@
+element.style {
+    
+}
+
+* {
+    -webkit-font-smootig: antialiased;
+}
+
+script {
+    display: none;
+}
+
+html[lang=ko] body {
+    word-break: keep-all;
+}
+
+body {
+    background: #000;
+    color: #221f1f;
+    font-family: "Netflix Sans", Helvetica, Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    
+}
+
